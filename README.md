@@ -5,7 +5,8 @@ This project explores the Titanic dataset using Python libraries like Pandas, Ma
 
 ## 📁 Dataset
 Source: https://www.kaggle.com/datasets/yasserh/titanic-dataset
-Titanic-Dataset.csv – Dataset file
+
+'Titanic-Dataset.csv' – Dataset file
 
 ## 🔧 Tools Used
 - Pandas
